@@ -1,0 +1,12 @@
+{
+  "name": "tessdata-eng",
+  "version": "3.0.5",
+  "description": "English data for tesseract from https://github.com/tesseract-ocr/tessdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "files": ["eng.traineddata"],
+  "license": "ISC"
+}
